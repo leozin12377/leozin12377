@@ -8,4 +8,4 @@
 leozin12377/leozin12377 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![https://tenor.com/pt-BR/view/satoru-gojo-gojo-satoru-gif-1973870875294432989]
+![](https://media.tenor.com/G2SZGmJp_t0AAAAC/satoru-gojo-gojo-satoru.gif)
